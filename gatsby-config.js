@@ -6,7 +6,14 @@ const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 
 module.exports = {
   siteMetadata: {
-    siteTitleAlt: `Minimal Blog - Gatsby Theme`,
+    siteTitle: `Collins Oduor`,
+    siteTitleAlt: `Collins Oduor`,
+    siteHeadline: `Collins Oduor`,
+    siteUrl: `localhost:8000`,
+    siteDescription: `Collins Oduor, Machine Learning, Software, ML, Artificial Intelligence, AI, Statistician, Statistics, Stats`,
+    siteLanguage: `en`,
+    siteImage: `/banner.jpg`,
+    author: `@collinsOduor`,
   },
   plugins: [
     {
@@ -26,11 +33,11 @@ module.exports = {
         externalLinks: [
           {
             name: `Twitter`,
-            url: `https://twitter.com/lekoarts_de`,
+            url: `https://twitter.com/oduorotieno1304`,
           },
           {
-            name: `Instagram`,
-            url: `https://www.instagram.com/lekoarts.de/`,
+            name: `Github`,
+            url: `https://github.com/CollinsOduor`,
           },
         ],
       },
@@ -45,9 +52,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `minimal-blog - @lekoarts/gatsby-theme-minimal-blog`,
-        short_name: `minimal-blog`,
-        description: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and code highlighting.`,
+        name: `Collins Oduor Blog`,
+        short_name: `Collins Oduor Blog`,
+        description: `Collins Oduor, Machine Learning, Software, ML, Artificial Intelligence, AI, Statistician, Statistics, Stats`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#6B46C1`,
