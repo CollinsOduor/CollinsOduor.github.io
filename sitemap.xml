@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>localhost:8000/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/probability-vs-likelihood</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/customer-churn-analysis</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/how-many-sticks-are-in-your-matchbox</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/analysis-of-the-2018-19-epl-season</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/tags/customer-churn</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/tags/knn</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/tags/analysis</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/tags/data-viz</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/tags/football</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/tags/likelihood</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/tags/p-value</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/tags/probability</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>localhost:8000/tags/statistics</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>
