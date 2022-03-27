@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+  - "16.1.0"
+script:
+  - echo "Revving up the engine..."
+  - echo "Installing deps"
+  - npm i
+  - echo "Installed deps successfully"
+  - echo "Building..."
+  - npm run build --verbose
