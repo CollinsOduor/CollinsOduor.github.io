@@ -17,6 +17,10 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@lekoarts/gatsby-theme-minimal-blog": "^4.0.0",
+    "@lekoarts/gatsby-theme-minimal-blog-core": "^4.1.4",
+    "@pmmmwh/react-refresh-webpack-plugin": "^0.5.4",
+    "autoprefixer": "^10.4.4",
     "css-minimizer-webpack-plugin": "^3.4.1",
     "gatsby": "^4.4.0",
     "gatsby-cli": "^4.10.2",
