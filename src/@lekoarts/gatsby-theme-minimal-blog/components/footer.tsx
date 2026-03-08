@@ -4,17 +4,14 @@ import { jsx, Link } from "theme-ui";
 const Footer = () => {
   return (
     <footer
-      sx={{
+      style={{
         boxSizing: `border-box`,
         display: `flex`,
         justifyContent: `space-between`,
-        mt: [6],
+        marginTop: 6,
         color: `secondary`,
-        a: {
-          variant: `links.secondary`,
-        },
-        flexDirection: [`column`, `column`, `row`],
-        variant: `dividers.top`,
+        flexDirection: 'column',
+        textAlign: 'center',
       }}
     >
       <div>
@@ -23,19 +20,18 @@ const Footer = () => {
       </div>
       <div>
         <Link
-          aria-label="Link to the author's Twitter page"
-          href="https://twitter.com/oduorotieno1304"
-        >
-          Twitter
-        </Link>
-        {` `}
-
-        {` `}
-        <Link
           aria-label="Link to the author's GitHub"
           href="https://github.com/CollinsOduor"
         >
           GitHub
+        </Link>
+        {' '}
+        {' '}
+        <Link
+          aria-label="Link to the author's LinkedIn"
+          href="https://www.linkedin.com/in/collins-otieno-8ab476116/"
+        >
+          LinkedIn
         </Link>
       </div>
     </footer>

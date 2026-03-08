@@ -32,8 +32,8 @@ module.exports = {
         ],
         externalLinks: [
           {
-            name: `Twitter`,
-            url: `https://twitter.com/oduorotieno1304`,
+            name: `LinkedIn`,
+            url: `https://www.linkedin.com/in/collins-otieno-8ab476116`,
           },
           {
             name: `Github`,
